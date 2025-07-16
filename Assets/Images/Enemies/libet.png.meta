@@ -1,0 +1,2042 @@
+fileFormatVersion: 2
+guid: 206e72278edb0cd49ae495b1ba5783f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6282092814822077321
+    second: libet_0
+  - first:
+      213: 4484219217411982242
+    second: libet_1
+  - first:
+      213: 5789921938005172960
+    second: libet_2
+  - first:
+      213: 8579794224921177020
+    second: libet_3
+  - first:
+      213: 6854303543435996093
+    second: libet_4
+  - first:
+      213: 242831084675594533
+    second: libet_5
+  - first:
+      213: -8170645957306941631
+    second: libet_6
+  - first:
+      213: 422014585556464265
+    second: libet_7
+  - first:
+      213: -3289898400425943556
+    second: libet_8
+  - first:
+      213: 8602943058506221908
+    second: libet_9
+  - first:
+      213: 5172653647381529419
+    second: libet_10
+  - first:
+      213: -1552368349837912917
+    second: libet_11
+  - first:
+      213: 1365777683811706346
+    second: libet_12
+  - first:
+      213: -9078400742565239592
+    second: libet_13
+  - first:
+      213: 8959805284223482622
+    second: libet_14
+  - first:
+      213: 6365974201625813854
+    second: libet_15
+  - first:
+      213: 729039708273390590
+    second: libet_16
+  - first:
+      213: -2644726478249930860
+    second: libet_17
+  - first:
+      213: 664663816529269859
+    second: libet_18
+  - first:
+      213: -7562430503284094988
+    second: libet_19
+  - first:
+      213: -1216428616590980614
+    second: libet_20
+  - first:
+      213: 4924792678392937017
+    second: libet_21
+  - first:
+      213: 2739895309462100987
+    second: libet_22
+  - first:
+      213: -1783342865756578415
+    second: libet_23
+  - first:
+      213: 5129768271733450561
+    second: libet_24
+  - first:
+      213: -7067368141140209148
+    second: libet_25
+  - first:
+      213: -2176736643244997355
+    second: libet_26
+  - first:
+      213: -4022944016998765975
+    second: libet_27
+  - first:
+      213: -7658266144888630802
+    second: libet_28
+  - first:
+      213: 1011393691411627331
+    second: libet_29
+  - first:
+      213: 8481222958125037895
+    second: libet_30
+  - first:
+      213: -4917998224657046761
+    second: libet_31
+  - first:
+      213: -7749656033054154643
+    second: libet_32
+  - first:
+      213: 5641127219784058864
+    second: libet_33
+  - first:
+      213: -3078006743828492251
+    second: libet_34
+  - first:
+      213: 151307324380120367
+    second: libet_35
+  - first:
+      213: -5905947021707742847
+    second: libet_36
+  - first:
+      213: 8820555393192284313
+    second: libet_37
+  - first:
+      213: -361841361772740606
+    second: libet_38
+  - first:
+      213: -4556547209828542105
+    second: libet_39
+  - first:
+      213: -1168430310065914318
+    second: libet_40
+  - first:
+      213: 1655855085657880141
+    second: libet_41
+  - first:
+      213: -4038559892954779386
+    second: libet_42
+  - first:
+      213: 7768957057285469407
+    second: libet_43
+  - first:
+      213: 651970354207448776
+    second: libet_44
+  - first:
+      213: 2756440378994611673
+    second: libet_45
+  - first:
+      213: -8985853871246213959
+    second: libet_46
+  - first:
+      213: -1804466052682522320
+    second: libet_47
+  - first:
+      213: -6900578260202891831
+    second: libet_48
+  - first:
+      213: -5380041488653813171
+    second: libet_49
+  - first:
+      213: 1391902766049297534
+    second: libet_50
+  - first:
+      213: 5365002998392616859
+    second: libet_51
+  - first:
+      213: 6844217605059506131
+    second: libet_52
+  - first:
+      213: -1349512869656727527
+    second: libet_53
+  - first:
+      213: 6648215208224246487
+    second: libet_54
+  - first:
+      213: -7209819940737117903
+    second: libet_55
+  - first:
+      213: -482353972921099587
+    second: libet_56
+  - first:
+      213: 8831711892438706333
+    second: libet_57
+  - first:
+      213: 6862005701706290541
+    second: libet_58
+  - first:
+      213: 5852911821087780662
+    second: libet_59
+  - first:
+      213: 1835223039075758658
+    second: libet_60
+  - first:
+      213: -323950748094392585
+    second: libet_61
+  - first:
+      213: -1093839949578660113
+    second: libet_62
+  - first:
+      213: -3051449209332484389
+    second: libet_63
+  - first:
+      213: 4544307274092353291
+    second: libet_64
+  - first:
+      213: 6920216171921954761
+    second: libet_65
+  - first:
+      213: 228588442766446166
+    second: libet_66
+  - first:
+      213: -227372240912063747
+    second: libet_67
+  - first:
+      213: -8973243501425974308
+    second: libet_68
+  - first:
+      213: 420865594595174827
+    second: libet_69
+  - first:
+      213: 6841529621482908156
+    second: libet_70
+  - first:
+      213: -4121094827186699204
+    second: libet_71
+  - first:
+      213: -3335528499059005713
+    second: libet_72
+  - first:
+      213: -6554783242377507037
+    second: libet_73
+  - first:
+      213: 6871745354587743588
+    second: libet_74
+  - first:
+      213: 4594630654489292811
+    second: libet_75
+  - first:
+      213: -6637576755882452530
+    second: libet_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: libet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 389
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f081912a7e2750800000000000000
+      internalID: 6282092814822077321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 388
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a342dcae952b3e30800000000000000
+      internalID: 4484219217411982242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 387
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22a08835fe95050800000000000000
+      internalID: 5789921938005172960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbef5ec36d811770800000000000000
+      internalID: 8579794224921177020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 386
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb2431d1c06f1f50800000000000000
+      internalID: 6854303543435996093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 385
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f28eb595be5300800000000000000
+      internalID: 242831084675594533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_6
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 387
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffc31bac80c9e80800000000000000
+      internalID: -8170645957306941631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 388
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9827026970c4bd500800000000000000
+      internalID: 422014585556464265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd5c7fd5dee752d0800000000000000
+      internalID: -3289898400425943556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590d21a12bc36770800000000000000
+      internalID: 8602943058506221908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b430e4e1615f8c740800000000000000
+      internalID: 5172653647381529419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41a5be531e47ae0800000000000000
+      internalID: -1552368349837912917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5a0c5319734f210800000000000000
+      internalID: 1365777683811706346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a1c2cf9a030280800000000000000
+      internalID: -9078400742565239592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efafec65f6f975c70800000000000000
+      internalID: 8959805284223482622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 370
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e532539decb785850800000000000000
+      internalID: 6365974201625813854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 269
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33ac680c11e1a00800000000000000
+      internalID: 729039708273390590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 270
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc7d7c74b0c4bd0800000000000000
+      internalID: -2644726478249930860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 272
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3645847383c593900800000000000000
+      internalID: 664663816529269859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 272
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f74c255689dc0790800000000000000
+      internalID: -7562430503284094988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 273
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9897d3e906e1fe0800000000000000
+      internalID: -1216428616590980614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 273
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a3e0c29d0685440800000000000000
+      internalID: 4924792678392937017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 271
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb5f327440160620800000000000000
+      internalID: 2739895309462100987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 270
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1ad5bc1b4047e0800000000000000
+      internalID: -1783342865756578415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147edb08019903740800000000000000
+      internalID: 5129768271733450561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402dc62ce1aabed90800000000000000
+      internalID: -7067368141140209148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5154ec94e8daac1e0800000000000000
+      internalID: -2176736643244997355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a61832bb1ab28c0800000000000000
+      internalID: -4022944016998765975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee15386348f58b590800000000000000
+      internalID: -7658266144888630802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d39a82431390e00800000000000000
+      internalID: 1011393691411627331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_30
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493eef485b53b570800000000000000
+      internalID: 8481222958125037895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 250
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a05ddba2cfbbb0800000000000000
+      internalID: -4917998224657046761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 203
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60285ab5e0b37490800000000000000
+      internalID: -7749656033054154643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70404815f494e40800000000000000
+      internalID: 5641127219784058864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 193
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52098d9ac29b845d0800000000000000
+      internalID: -3078006743828492251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f258799b53d891200800000000000000
+      internalID: 151307324380120367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 147
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18175dc897cd90ea0800000000000000
+      internalID: -5905947021707742847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 146
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d1e49568e86a70800000000000000
+      internalID: 8820555393192284313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 190
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2000e76d23b7afaf0800000000000000
+      internalID: -361841361772740606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 146
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7695fdb4474e3c0c0800000000000000
+      internalID: -4556547209828542105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 197
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eb8b7d2d6e8cfe0800000000000000
+      internalID: -1168430310065914318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_41
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 141
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4679246d67caf610800000000000000
+      internalID: 1655855085657880141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_42
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 199
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017a40bc2724f7c0800000000000000
+      internalID: -4038559892954779386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_43
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 147
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b3ca2841e0db60800000000000000
+      internalID: 7768957057285469407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_44
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 148
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cede9635934c0900800000000000000
+      internalID: 651970354207448776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55482abe7d04620800000000000000
+      internalID: 2756440378994611673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcfcc06385db4380800000000000000
+      internalID: -8985853871246213959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_47
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0316b908faf35f6e0800000000000000
+      internalID: -1804466052682522320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d2d712a83c30a0800000000000000
+      internalID: -6900578260202891831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4afcef45c04655b0800000000000000
+      internalID: -5380041488653813171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74804ce038015310800000000000000
+      internalID: 1391902766049297534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_51
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f8125dc1547a40800000000000000
+      internalID: 5365002998392616859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_52
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 134
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfeb0b46ab8bfe50800000000000000
+      internalID: 6844217605059506131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_53
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 130
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910fa40f131954de0800000000000000
+      internalID: -1349512869656727527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_54
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 136
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da4e841284334c50800000000000000
+      internalID: 6648215208224246487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13116d196f291fb90800000000000000
+      internalID: -7209819940737117903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 30
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1a040e955e49f0800000000000000
+      internalID: -482353972921099587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_57
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 29
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e66b7c2b809a70800000000000000
+      internalID: 8831711892438706333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 32
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6598e844ddba3f50800000000000000
+      internalID: 6862005701706290541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 33
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2f9d8a48b93150800000000000000
+      internalID: 5852911821087780662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_60
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 33
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24239bf61a5087910800000000000000
+      internalID: 1835223039075758658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_61
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 81
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f69c1fc288118bf0800000000000000
+      internalID: -323950748094392585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_62
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 27
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69b3c7c56e1d0f0800000000000000
+      internalID: -1093839949578660113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_63
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 84
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd637938c1317a5d0800000000000000
+      internalID: -3051449209332484389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_64
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 30
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b079f76936f901f30800000000000000
+      internalID: 4544307274092353291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 18
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7525881fb890060800000000000000
+      internalID: 6920216171921954761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e8ad24afb1c2300800000000000000
+      internalID: 228588442766446166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_67
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 21
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2e6acc62638dcf0800000000000000
+      internalID: -227372240912063747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 24
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32c66e392a87380800000000000000
+      internalID: -8973243501425974308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba96708470737d500800000000000000
+      internalID: 420865594595174827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92dc851fef1fe50800000000000000
+      internalID: 6841529621482908156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_71
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3446d3d61eeec6c0800000000000000
+      internalID: -4121094827186699204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe66563a082d5b1d0800000000000000
+      internalID: -3335528499059005713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc76aae5bb805a0800000000000000
+      internalID: -6554783242377507037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_74
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465a42fedf75d5f50800000000000000
+      internalID: 6871745354587743588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_75
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0074f2ac3863cf30800000000000000
+      internalID: 4594630654489292811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: libet_76
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 10
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99c30ab1792e3a0800000000000000
+      internalID: -6637576755882452530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
