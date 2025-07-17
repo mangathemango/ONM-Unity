@@ -44,6 +44,7 @@ public class Gun : MonoBehaviour
         GameObject bulletObj = Instantiate(projectilePrefab, GameObject.FindGameObjectWithTag("Units").transform);
         bulletObj.transform.position = muzzleTransform.position;
         bulletObj.GetComponent<Rigidbody>().AddForce(Direction * projectileSpeed);
+        Destroy(bulletObj, 1.0f);
     }
 
     IEnumerator ResetFireReady()
