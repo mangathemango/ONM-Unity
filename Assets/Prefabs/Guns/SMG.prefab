@@ -134,6 +134,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cf1d46c8cfd05e44b3f531ca45e8071, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  projectileSpeed: 500
+  shotsPerMinute: 600
+  projectilePrefab: {fileID: 4157095271589091133, guid: 201a0f0cc5d2c634cbc4a737e0ce7924, type: 3}
+  muzzleTransform: {fileID: 7129061670068195794}
+  gripTransform: {fileID: 653327640328727080}
+  ejectionTransform: {fileID: 4774163426234381348}
 --- !u!1 &7709660382037085487
 GameObject:
   m_ObjectHideFlags: 0

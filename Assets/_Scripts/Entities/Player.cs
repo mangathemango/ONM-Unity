@@ -9,7 +9,8 @@ public class Player : MonoBehaviour
     [SerializeField] private Transform hand;
     [SerializeField] private GameObject gunPrefab;
 
-    private Transform gunTf;
+    private Transform gunTransform;
+    private GameObject gunObj;
     private Vector2 moveDirection;
 
 
@@ -21,7 +22,8 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         tf = GetComponent<Transform>();
-        gunTf = Instantiate(gunPrefab, hand).GetComponent<Transform>();
+        gunObj = Instantiate(gunPrefab, hand);
+        gunTransform = gunObj.transform;
     }
 
     // Update is called once per frame
@@ -36,16 +38,17 @@ public class Player : MonoBehaviour
 
         // Flips the player if mouse is on the left side of the player
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        mousePosition = new Vector3(mousePosition.x, mousePosition.y, 0);
-        float targetScale;
-        if (tf.position.x < mousePosition.x) targetScale = 1;
-        else targetScale = -1;
-        tf.localScale = Vector3.Lerp(tf.localScale, new Vector3(targetScale, 1, 1), 0.1f);
+        mousePosition = new(mousePosition.x, mousePosition.y, 0);
+        if (tf.position.x < mousePosition.x) tf.localScale = new(1, 1, 1);
+        else tf.localScale = new(-1, 1, 1);
 
         // Make gun look at cursor
-        gunTf.rotation = Quaternion.LookRotation(Vector3.forward, (mousePosition - gunTf.position).normalized);
-        gunTf.Rotate(Vector3.forward, 90.0f);
-        if (tf.position.x > mousePosition.x) gunTf.Rotate(Vector3.forward, 180.0f);
+        Vector3 gunDirection = (mousePosition - gunTransform.position).normalized;
+        gunTransform.rotation = Quaternion.LookRotation(Vector3.forward, gunDirection);
+        gunTransform.Rotate(Vector3.forward, 90.0f);
+        if (tf.position.x > mousePosition.x) gunTransform.Rotate(Vector3.forward, 180.0f);
+
+        if (Input.GetMouseButton(0)) gunObj.GetComponent<Gun>().Shoot();
     }
 
     void FixedUpdate()
