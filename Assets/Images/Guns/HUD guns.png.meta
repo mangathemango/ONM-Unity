@@ -81,12 +81,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUD guns_0: -8298336497124322686
+      HUD guns_1: 6449375270472071271
+      HUD guns_10: -342979582379857079
+      HUD guns_11: 6863446106812590691
+      HUD guns_2: 1803270788654022004
+      HUD guns_3: 9120422959910211541
+      HUD guns_4: 5794596544309605015
+      HUD guns_5: -1673760556988137059
+      HUD guns_6: 5896275156328143347
+      HUD guns_7: 3468213031944596716
+      HUD guns_8: -3452356947196275700
+      HUD guns_9: -8566557651951577320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

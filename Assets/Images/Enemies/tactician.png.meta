@@ -66,12 +66,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tactician_0: 3089638543487396392
+      tactician_1: 7786491452717133741
+      tactician_2: -5282781481356173153
+      tactician_3: 1720289587144426708
+      tactician_4: 3367802502625476296
+      tactician_5: -5112187968823489118
+      tactician_6: 4115964092489045149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

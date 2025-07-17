@@ -63,12 +63,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sabot_0: -8961107226502030843
+      sabot_1: 3907393038564473154
+      sabot_2: -3379150361848047146
+      sabot_3: -1033003024440074865
+      sabot_4: -443077656506096475
+      sabot_5: 4485942610797714349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

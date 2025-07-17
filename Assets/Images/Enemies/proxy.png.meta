@@ -66,12 +66,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      proxy_0: 4083419598759523958
+      proxy_1: -1027050146886731956
+      proxy_2: -682358981190488595
+      proxy_3: 517728632843812804
+      proxy_4: 6372395762502598473
+      proxy_5: 7106902050757371196
+      proxy_6: 3289246056846741335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
