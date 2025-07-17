@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -5,7 +6,6 @@ public class Player : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private Rigidbody2D rb;
     private Animator anim;
-    private SpriteRenderer sr;
     private Transform tf;
 
     private Vector2 direction;
@@ -14,7 +14,6 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        sr = GetComponent<SpriteRenderer>();
         tf = GetComponent<Transform>();
     }
 
@@ -28,7 +27,15 @@ public class Player : MonoBehaviour
         if (Input.GetKey(KeyCode.D)) direction.x += 1;
         anim.SetBool("Running", direction.magnitude > 0);
         Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        sr.flipX = mousePosition.x < tf.position.x;
+
+        if (tf.position.x < mousePosition.x)
+        {
+            tf.localScale = Vector3.Lerp(tf.localScale, new Vector3(1, 1, 1), 0.1f);
+        }
+        else
+        {
+            tf.localScale = Vector3.Lerp(tf.localScale, new Vector3(-1, 1, 1), 0.1f);
+        }
     }
 
     void FixedUpdate()
