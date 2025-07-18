@@ -42,8 +42,10 @@ GameObject:
   - component: {fileID: 2264210156405752442}
   - component: {fileID: 5597232096475591082}
   - component: {fileID: 5935471672337082633}
-  - component: {fileID: 8826558387503827685}
   - component: {fileID: 7580471291463980041}
+  - component: {fileID: 6871835246386455422}
+  - component: {fileID: 7953441354414590287}
+  - component: {fileID: 9037265782440741336}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -59,7 +61,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7149293938405601280}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.564, y: -2.8093, z: -0.021685364}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -149,21 +151,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &8826558387503827685
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7149293938405601280}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 766974215af3b714881aafdec0199800, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3503
-  hand: {fileID: 7756589779626679026}
-  gunPrefab: {fileID: 0}
 --- !u!95 &7580471291463980041
 Animator:
   serializedVersion: 7
@@ -186,3 +173,45 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6871835246386455422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149293938405601280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f6c589adb2378c41b49a11c396be662, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3500
+  dashSpeed: 50
+  dashCooldown: 1
+  dashDuration: 0.2
+--- !u!114 &7953441354414590287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149293938405601280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8578619c07535dc49a6110a5208a5ba9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hand: {fileID: 7756589779626679026}
+  gunPrefab: {fileID: 4362834013025594685, guid: 4498feaa844da4c42a17de8889c9c878, type: 3}
+--- !u!114 &9037265782440741336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149293938405601280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72c29f11e76af684481c9ffda8a4b0c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

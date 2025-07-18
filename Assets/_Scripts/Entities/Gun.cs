@@ -38,19 +38,15 @@ public class Gun : MonoBehaviour
     public void Shoot()
     {
         if (!fireReady) return;
-        StartCoroutine(ResetFireReady());
+        Invoke(nameof(ResetFireReady), 60.0f / shotsPerMinute);
         fireReady = false;
 
+        // Spawn bullet
         GameObject bulletObj = Instantiate(projectilePrefab, GameObject.FindGameObjectWithTag("Units").transform);
         bulletObj.transform.position = muzzleTransform.position;
         bulletObj.GetComponent<Rigidbody>().AddForce(Direction * projectileSpeed);
         Destroy(bulletObj, 1.0f);
     }
 
-    IEnumerator ResetFireReady()
-    {
-        if (!fireReady) yield break;
-        yield return new WaitForSeconds(60.0f / shotsPerMinute);
-        fireReady = true;
-    }
+    void ResetFireReady() => fireReady = true;
 }
