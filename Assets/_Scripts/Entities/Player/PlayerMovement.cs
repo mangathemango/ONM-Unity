@@ -13,13 +13,10 @@ public class PlayerMovement : MonoBehaviour
 
     // States
     private bool dashReady = true;
-    private bool dashing = false;
     private Vector2 moveDirection;
-    public bool Running {
-        get
-        {
-            return moveDirection.magnitude > 0;
-        }
+    public bool Running
+    {
+        get => moveDirection.magnitude > 0;
     }
 
     // Components
@@ -34,16 +31,6 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!dashing)
-        {
-            moveDirection = new();
-            if (Input.GetKey(KeyCode.W)) moveDirection.y += 1;
-            if (Input.GetKey(KeyCode.A)) moveDirection.x -= 1;
-            if (Input.GetKey(KeyCode.S)) moveDirection.y -= 1;
-            if (Input.GetKey(KeyCode.D)) moveDirection.x += 1;
-        }
-        if (Input.GetKeyDown(KeyCode.LeftShift) && Running) Dash();
-
         // Flips the player if mouse is on the left side of the player
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePosition = new(mousePosition.x, mousePosition.y, 0);
@@ -51,27 +38,20 @@ public class PlayerMovement : MonoBehaviour
         else tf.localScale = new(-1, 1, 1);
     }
 
-    void FixedUpdate()
+    public void Move(Vector2 direction)
     {
-        if (Running)
-        {
-            float currentSpeed = speed;
-            rb.AddForce(currentSpeed * Time.deltaTime * moveDirection.normalized);
-        }
+        rb.AddForce(speed * Time.deltaTime * direction.normalized);
     }
 
-    private void Dash()
-    {
-        if (!dashReady) return;
+    public void Dash(Vector2 direction)
+    {   
+        if (!dashReady || direction.magnitude == 0) return;
         rb.linearVelocity = Vector2.zero;
-        rb.AddForce(dashSpeed * moveDirection.normalized, ForceMode2D.Impulse);
-        dashing = true;
+        rb.AddForce(dashSpeed * direction.normalized, ForceMode2D.Impulse);
         dashReady = false;
-        Invoke(nameof(ResetDashing), dashDuration);
         Invoke(nameof(ResetDashReady), dashCooldown);
     }
 
-    private void ResetDashing() => dashing = false;
     private void ResetDashReady() => dashReady = true;
-    
+
 }

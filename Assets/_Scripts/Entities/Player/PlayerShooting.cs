@@ -18,8 +18,6 @@ public class PlayerShooting : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButton(0)) gunObj.GetComponent<Gun>().Shoot();
-
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mousePosition = new(mousePosition.x, mousePosition.y, 0);
 
@@ -29,4 +27,6 @@ public class PlayerShooting : MonoBehaviour
         gunTransform.Rotate(Vector3.forward, 90.0f);
         if (gunTransform.lossyScale.x < 0.0f) gunTransform.Rotate(Vector3.forward, 180.0f);
     }
+
+    public void Shoot() => gunObj.GetComponent<Gun>().Shoot();
 }
